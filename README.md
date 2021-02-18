@@ -11,3 +11,16 @@ In this project we will learn how to deploy a Web API to `heroku`.
 ## Instructions
 
 Please fork this repository and follow along **using your fork** as the instructor deploys the API to `heroku`.
+
+<!-- Notes for how to set up .env for a README -->
+
+##Environment variables
+
+Put these values in a .env file:
+
+---
+
+COHORT=""
+FUN_FACT=""
+
+---
